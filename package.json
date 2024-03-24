@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Anne-Serine/joker#readme",
   "devDependencies": {
+    "eslint": "^8.57.0",
     "prettier": "^3.2.5"
   },
   "dependencies": {
